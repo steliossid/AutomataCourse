@@ -1,2 +1,2 @@
 # automata-course
-Exercises for the Automata Course (University of Macedonia)
+Creation of a Deterministic and non-deterministic finit automaton in Java
